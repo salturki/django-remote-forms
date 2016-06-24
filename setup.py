@@ -9,11 +9,11 @@ except ImportError:
 
 setup(
     name='django-remote-forms',
-    version='0.0.1',
+    version='0.0.2',
     description='A platform independent form serializer for Django.',
     author='WiserTogether Tech Team',
     author_email='tech@wisertogether.com',
-    url='http://github.com/wisertoghether/django-remote-forms/',
+    url='http://github.com/salturki/django-remote-forms/',
     long_description=open('README.md', 'r').read(),
     packages=[
         'django_remote_forms',
